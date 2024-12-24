@@ -1,4 +1,4 @@
-## Updated on 2024.12.23
+## Updated on 2024.12.24
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-23**|**Enhanced Temporal Processing in Spiking Neural Networks for Static Object Detection Using 3D Convolutions**|Huaxu He et.al.|[2412.17654v1](http://arxiv.org/abs/2412.17654v1)|null|
+|**2024-12-23**|**HPCNeuroNet: A Neuromorphic Approach Merging SNN Temporal Dynamics with Transformer Attention for FPGA-based Particle Physics**|Murat Isik et.al.|[2412.17571v1](http://arxiv.org/abs/2412.17571v1)|null|
+|**2024-12-23**|**Evaluation of Bio-Inspired Models under Different Learning Settings For Energy Efficiency in Network Traffic Prediction**|Theodoros Tsiolakis et.al.|[2412.17565v1](http://arxiv.org/abs/2412.17565v1)|null|
+|**2024-12-23**|**FedLEC: Effective Federated Learning Algorithm with Spiking Neural Networks Under Label Skews**|Di Yu et.al.|[2412.17305v1](http://arxiv.org/abs/2412.17305v1)|null|
+|**2024-12-18**|**Adaptive Calibration: A Unified Conversion Framework of Spiking Neural Network**|Ziqing Wang et.al.|[2412.16219v1](http://arxiv.org/abs/2412.16219v1)|**[link](https://github.com/bic-l/burst-ann2snn)**|
 |**2024-12-20**|**How connection probability shapes fluctuations of neural population dynamics**|Nils E. Greven et.al.|[2412.16111v1](http://arxiv.org/abs/2412.16111v1)|null|
 |**2024-12-20**|**Spiking Neural Belief Propagation Decoder for LDPC Codes with Small Variable Node Degrees**|Alexander von Bank et.al.|[2412.15897v1](http://arxiv.org/abs/2412.15897v1)|null|
 |**2024-12-20**|**Darkit: A User-Friendly Software Toolkit for Spiking Large Language Model**|Xin Du et.al.|[2412.15634v1](http://arxiv.org/abs/2412.15634v1)|null|
@@ -1098,5 +1103,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241223>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241224>back to top</a>)</p>
 
