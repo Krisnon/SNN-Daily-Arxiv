@@ -1,4 +1,4 @@
-## Updated on 2025.01.12
+## Updated on 2025.01.13
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-10**|**Binary Event-Driven Spiking Transformer**|Honglin Cao et.al.|[2501.05904v1](http://arxiv.org/abs/2501.05904v1)|null|
 |**2025-01-09**|**Enhanced Quantile Regression with Spiking Neural Networks for Long-Term System Health Prognostics**|David J Poland et.al.|[2501.05087v1](http://arxiv.org/abs/2501.05087v1)|null|
 |**2025-01-07**|**Neuromorphic Optical Tracking and Imaging of Randomly Moving Targets through Strongly Scattering Media**|Ning Zhang et.al.|[2501.03874v1](http://arxiv.org/abs/2501.03874v1)|null|
 |**2025-01-06**|**The Robustness of Spiking Neural Networks in Federated Learning with Compression Against Non-omniscient Byzantine Attacks**|Manh V. Nguyen et.al.|[2501.03306v1](http://arxiv.org/abs/2501.03306v1)|null|
@@ -1113,5 +1114,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250112>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250113>back to top</a>)</p>
 
