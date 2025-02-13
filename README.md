@@ -1,4 +1,4 @@
-## Updated on 2025.02.12
+## Updated on 2025.02.13
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-12**|**Neuromorphic Digital-Twin-based Controller for Indoor Multi-UAV Systems Deployment**|Reza Ahmadvand et.al.|[2502.08115v1](http://arxiv.org/abs/2502.08115v1)|null|
 |**2025-02-11**|**OscNet: Machine Learning on CMOS Oscillator Networks**|Wenxiao Cai et.al.|[2502.07192v1](http://arxiv.org/abs/2502.07192v1)|null|
 |**2025-02-10**|**Unsupervised Particle Tracking with Neuromorphic Computing**|Emanuele Coradin et.al.|[2502.06771v1](http://arxiv.org/abs/2502.06771v1)|null|
 |**2025-02-10**|**Wandering around: A bioinspired approach to visual attention through object motion sensitivity**|Giulia D Angelo et.al.|[2502.06747v1](http://arxiv.org/abs/2502.06747v1)|null|
@@ -159,11 +160,11 @@
 |**2024-10-24**|**Spatial-Temporal Search for Spiking Neural Networks**|Kaiwei Che et.al.|[2410.18580v1](http://arxiv.org/abs/2410.18580v1)|null|
 |**2024-10-23**|**Spiking Graph Neural Network on Riemannian Manifolds**|Li Sun et.al.|[2410.17941v1](http://arxiv.org/abs/2410.17941v1)|**[link](https://github.com/ZhenhHuang/MSG)**|
 |**2024-10-07**|**SPikE-SSM: A Sparse, Precise, and Efficient Spiking State Space Model for Long Sequences Learning**|Yan Zhong et.al.|[2410.17268v1](http://arxiv.org/abs/2410.17268v1)|null|
-|**2024-10-22**|**Neuronal Competition Groups with Supervised STDP for Spike-Based Classification**|Gaspard Goupy et.al.|[2410.17066v1](http://arxiv.org/abs/2410.17066v1)|null|
+|**2024-10-22**|**Neuronal Competition Groups with Supervised STDP for Spike-Based Classification**|Gaspard Goupy et.al.|[2410.17066v1](http://arxiv.org/abs/2410.17066v1)|**[link](https://gitlab.univ-lille.fr/fox/snn-ncg)**|
 |**2024-10-22**|**Neuromorphic information processing using ultrafast heat dynamics and quench switching of an antiferromagnet**|Jan Zubáč et.al.|[2410.16909v1](http://arxiv.org/abs/2410.16909v1)|null|
 |**2024-10-22**|**SpikMamba: When SNN meets Mamba in Event-based Human Action Recognition**|Jiaqi Chen et.al.|[2410.16746v1](http://arxiv.org/abs/2410.16746v1)|**[link](https://github.com/typistchen/spikmamba)**|
 |**2024-10-22**|**Real-time Sub-milliwatt Epilepsy Detection Implemented on a Spiking Neural Network Edge Inference Processor**|Ruixin Lia et.al.|[2410.16613v1](http://arxiv.org/abs/2410.16613v1)|null|
-|**2024-10-21**|**Gradient-Free Supervised Learning using Spike-Timing-Dependent Plasticity for Image Recognition**|Wei Xie et.al.|[2410.16524v1](http://arxiv.org/abs/2410.16524v1)|**[link](https://github.com/wxie2013/gdfree-supervised-snn-mnist)**|
+|**2025-02-11**|**Supervised Learning without Backpropagation using Spike-Timing-Dependent Plasticity for Image Recognition**|Wei Xie et.al.|[2410.16524v2](http://arxiv.org/abs/2410.16524v2)|**[link](https://github.com/wxie2013/gdfree-supervised-snn-mnist)**|
 |**2024-10-30**|**Hardware-Software Co-optimised Fast and Accurate Deep Reconfigurable Spiking Inference Accelerator Architecture Design Methodology**|Anagha Nimbekar et.al.|[2410.16298v2](http://arxiv.org/abs/2410.16298v2)|null|
 |**2024-10-21**|**Spiking Neural Networks as a Controller for Emergent Swarm Agents**|Kevin Zhu et.al.|[2410.16175v1](http://arxiv.org/abs/2410.16175v1)|null|
 |**2024-10-21**|**Enhancing SNN-based Spatio-Temporal Learning: A Benchmark Dataset and Cross-Modality Attention Model**|Shibo Zhou et.al.|[2410.15689v1](http://arxiv.org/abs/2410.15689v1)|**[link](https://github.com/JasonKitty/DVS-SLR)**|
@@ -1158,5 +1159,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250212>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250213>back to top</a>)</p>
 
