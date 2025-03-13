@@ -1,4 +1,4 @@
-## Updated on 2025.03.12
+## Updated on 2025.03.13
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-09**|**SDTrack: A Baseline for Event-based Tracking via Spiking Neural Networks**|Yimeng Shan et.al.|[2503.08703v1](http://arxiv.org/abs/2503.08703v1)|null|
 |**2025-03-09**|**Characterizing Learning in Spiking Neural Networks with Astrocyte-Like Units**|Christopher S. Yang et.al.|[2503.06798v1](http://arxiv.org/abs/2503.06798v1)|null|
 |**2025-03-09**|**Hardware-Accelerated Event-Graph Neural Networks for Low-Latency Time-Series Classification on SoC FPGA**|Hiroshi Nakano et.al.|[2503.06629v1](http://arxiv.org/abs/2503.06629v1)|null|
 |**2025-03-07**|**THE-SEAN: A Heart Rate Variation-Inspired Temporally High-Order Event-Based Visual Odometry with Self-Supervised Spiking Event Accumulation Networks**|Chaoran Xiong et.al.|[2503.05112v1](http://arxiv.org/abs/2503.05112v1)|null|
@@ -23,7 +24,7 @@
 |**2025-03-06**|**Towards Effective and Sparse Adversarial Attack on Spiking Neural Networks via Breaking Invisible Surrogate Gradients**|Li Lun et.al.|[2503.03272v2](http://arxiv.org/abs/2503.03272v2)|**[link](https://github.com/ryime/pdsg-sda)**|
 |**2025-03-05**|**Temporal Separation with Entropy Regularization for Knowledge Distillation in Spiking Neural Networks**|Kairong Yu et.al.|[2503.03144v1](http://arxiv.org/abs/2503.03144v1)|null|
 |**2025-03-05**|**STAA-SNN: Spatial-Temporal Attention Aggregator for Spiking Neural Networks**|Tianqing Zhang et.al.|[2503.02689v2](http://arxiv.org/abs/2503.02689v2)|null|
-|**2025-03-04**|**Weight transport through spike timing for robust local gradients**|Timo Gierlich et.al.|[2503.02642v1](http://arxiv.org/abs/2503.02642v1)|null|
+|**2025-03-04**|**Weight transport through spike timing for robust local gradients**|Timo Gierlich et.al.|[2503.02642v1](http://arxiv.org/abs/2503.02642v1)|**[link](https://github.com/unibe-cns/sal-code)**|
 |**2025-03-03**|**Mapping Spiking Neural Networks to Heterogeneous Crossbar Architectures using Integer Linear Programming**|Devin Pohl et.al.|[2503.02033v1](http://arxiv.org/abs/2503.02033v1)|null|
 |**2025-03-03**|**Sustainable AI: Mathematical Foundations of Spiking Neural Networks**|Adalbert Fono et.al.|[2503.02013v1](http://arxiv.org/abs/2503.02013v1)|null|
 |**2025-03-05**|**Regularization-based Framework for Quantization-, Fault- and Variability-Aware Training**|Anmol Biswas et.al.|[2503.01297v2](http://arxiv.org/abs/2503.01297v2)|null|
@@ -1214,5 +1215,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250312>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250313>back to top</a>)</p>
 
