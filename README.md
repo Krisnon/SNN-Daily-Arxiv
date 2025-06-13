@@ -1,4 +1,4 @@
-## Updated on 2025.06.11
+## Updated on 2025.06.13
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,9 +11,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-11**|**Towards Practical Alzheimer's Disease Diagnosis: A Lightweight and Interpretable Spiking Neural Model**|Changwei Wu et.al.|[2506.09695v1](http://arxiv.org/abs/2506.09695v1)|null|
+|**2025-06-11**|**Energy Aware Development of Neuromorphic Implantables: From Metrics to Action**|Enrique Barba Roque et.al.|[2506.09599v1](http://arxiv.org/abs/2506.09599v1)|null|
+|**2025-06-10**|**Integration of Contrastive Predictive Coding and Spiking Neural Networks**|Emirhan Bilgiç et.al.|[2506.09194v1](http://arxiv.org/abs/2506.09194v1)|null|
+|**2025-06-10**|**Spiking Neural Models for Decision-Making Tasks with Learning**|Sophie Jaffard et.al.|[2506.09087v1](http://arxiv.org/abs/2506.09087v1)|null|
 |**2025-06-10**|**STI-SNN: A 0.14 GOPS/W/PE Single-Timestep Inference FPGA-based SNN Accelerator with Algorithm and Hardware Co-Design**|Kainan Wang et.al.|[2506.08842v1](http://arxiv.org/abs/2506.08842v1)|null|
 |**2025-06-09**|**A Practical Guide to Tuning Spiking Neuronal Dynamics**|William Gebhardt et.al.|[2506.08138v1](http://arxiv.org/abs/2506.08138v1)|null|
-|**2025-06-09**|**SpikeSMOKE: Spiking Neural Networks for Monocular 3D Object Detection with Cross-Scale Gated Coding**|Xuemei Chen et.al.|[2506.07737v1](http://arxiv.org/abs/2506.07737v1)|null|
+|**2025-06-11**|**SpikeSMOKE: Spiking Neural Networks for Monocular 3D Object Detection with Cross-Scale Gated Coding**|Xuemei Chen et.al.|[2506.07737v2](http://arxiv.org/abs/2506.07737v2)|null|
 |**2025-06-09**|**ReverB-SNN: Reversing Bit of the Weight and Activation for Spiking Neural Networks**|Yufei Guo et.al.|[2506.07720v1](http://arxiv.org/abs/2506.07720v1)|null|
 |**2025-06-08**|**Transient Dynamics in Lattices of Differentiating Ring Oscillators**|Peter DelMastro et.al.|[2506.07253v1](http://arxiv.org/abs/2506.07253v1)|null|
 |**2025-06-08**|**RBA-FE: A Robust Brain-Inspired Audio Feature Extractor for Depression Diagnosis**|Yu-Xuan Wu et.al.|[2506.07118v1](http://arxiv.org/abs/2506.07118v1)|null|
@@ -22,11 +26,11 @@
 |**2025-06-04**|**Structured State Space Model Dynamics and Parametrization for Spiking Neural Networks**|Maxime Fabre et.al.|[2506.06374v1](http://arxiv.org/abs/2506.06374v1)|null|
 |**2025-06-06**|**Integrating Complexity and Biological Realism: High-Performance Spiking Neural Networks for Breast Cancer Detection**|Zofia Rudnicka et.al.|[2506.06265v1](http://arxiv.org/abs/2506.06265v1)|null|
 |**2025-06-06**|**Integer Binary-Range Alignment Neuron for Spiking Neural Networks**|Binghao Ye et.al.|[2506.05679v1](http://arxiv.org/abs/2506.05679v1)|null|
-|**2025-06-05**|**Spike-TBR: a Noise Resilient Neuromorphic Event Representation**|Gabriele Magrini. Federico Becattini et.al.|[2506.04817v1](http://arxiv.org/abs/2506.04817v1)|null|
+|**2025-06-12**|**Spike-TBR: a Noise Resilient Neuromorphic Event Representation**|Gabriele Magrini et.al.|[2506.04817v2](http://arxiv.org/abs/2506.04817v2)|null|
 |**2025-06-05**|**EECD-Net: Energy-Efficient Crack Detection with Spiking Neural Networks and Gated Attention**|Shuo Zhang et.al.|[2506.04526v1](http://arxiv.org/abs/2506.04526v1)|null|
 |**2025-06-04**|**Optimal Spiking Brain Compression: Improving One-Shot Post-Training Pruning and Quantization for Spiking Neural Networks**|Lianfeng Shi et.al.|[2506.03996v1](http://arxiv.org/abs/2506.03996v1)|null|
 |**2025-06-04**|**Learning from Noise: Enhancing DNNs for Event-Based Vision through Controlled Noise Injection**|Marcin Kowalczyk et.al.|[2506.03918v1](http://arxiv.org/abs/2506.03918v1)|null|
-|**2025-06-03**|**SENMAP: Multi-objective data-flow mapping and synthesis for hybrid scalable neuromorphic systems**|Prithvish V Nembhani et.al.|[2506.03450v1](http://arxiv.org/abs/2506.03450v1)|null|
+|**2025-06-03**|**SENMAP: Multi-objective data-flow mapping and synthesis for hybrid scalable neuromorphic systems**|Prithvish V Nembhani et.al.|[2506.03450v1](http://arxiv.org/abs/2506.03450v1)|**[link](https://github.com/Prithvish04/senMap_paper_submission)**|
 |**2025-06-03**|**Improving Performance of Spike-based Deep Q-Learning using Ternary Neurons**|Aref Ghoreishee et.al.|[2506.03392v1](http://arxiv.org/abs/2506.03392v1)|null|
 |**2025-06-03**|**Minimal Neuron Circuits -- Part I: Resonators**|Amr Nabil et.al.|[2506.02341v1](http://arxiv.org/abs/2506.02341v1)|null|
 |**2025-05-12**|**Efficient ANN-SNN Conversion with Error Compensation Learning**|Chang Liu et.al.|[2506.01968v1](http://arxiv.org/abs/2506.01968v1)|null|
@@ -138,7 +142,7 @@
 |**2025-03-26**|**VESTA: A Versatile SNN-Based Transformer Accelerator with Unified PEs for Multiple Computational Layers**|Ching-Yao Chen et.al.|[2503.20246v1](http://arxiv.org/abs/2503.20246v1)|null|
 |**2025-03-25**|**Hardware Efficient Accelerator for Spiking Transformer With Reconfigurable Parallel Time Step Computing**|Bo-Yu Chen et.al.|[2503.19643v1](http://arxiv.org/abs/2503.19643v1)|null|
 |**2025-03-18**|**Temporal Flexibility in Spiking Neural Networks: Towards Generalization Across Time Steps and Deployment Friendliness**|Kangrui Du et.al.|[2503.17394v1](http://arxiv.org/abs/2503.17394v1)|**[link](https://github.com/brain-intelligence-lab/temporal_flexibility_in_SNN)**|
-|**2025-03-27**|**Temporal-Guided Spiking Neural Networks for Event-Based Human Action Recognition**|Siyuan Yang et.al.|[2503.17132v2](http://arxiv.org/abs/2503.17132v2)|null|
+|**2025-06-11**|**Temporal-Guided Spiking Neural Networks for Event-Based Human Action Recognition**|Siyuan Yang et.al.|[2503.17132v3](http://arxiv.org/abs/2503.17132v3)|null|
 |**2025-03-21**|**A Digital Machine Learning Algorithm Simulating Spiking Neural Network CoLaNET**|Mikhail Kiselev et.al.|[2503.17111v1](http://arxiv.org/abs/2503.17111v1)|null|
 |**2025-03-21**|**Replay4NCL: An Efficient Memory Replay-based Methodology for Neuromorphic Continual Learning in Embedded AI Systems**|Mishal Fatima Minhas et.al.|[2503.17061v1](http://arxiv.org/abs/2503.17061v1)|null|
 |**2025-03-21**|**Region Masking to Accelerate Video Processing on Neuromorphic Hardware**|Sreetama Sarkar et.al.|[2503.16775v1](http://arxiv.org/abs/2503.16775v1)|null|
@@ -197,7 +201,7 @@
 |**2025-02-19**|**Improving the Sparse Structure Learning of Spiking Neural Networks from the View of Compression Efficiency**|Jiangrong Shen et.al.|[2502.13572v1](http://arxiv.org/abs/2502.13572v1)|null|
 |**2025-02-19**|**Comparison principles and asymptotic behavior of delayed age-structured neuron models**|María J Cáceres et.al.|[2502.13553v1](http://arxiv.org/abs/2502.13553v1)|null|
 |**2025-02-19**|**SNN-Driven Multimodal Human Action Recognition via Event Camera and Skeleton Data Fusion**|Naichuan Zheng et.al.|[2502.13385v1](http://arxiv.org/abs/2502.13385v1)|null|
-|**2025-06-10**|**On the Privacy Risks of Spiking Neural Networks: A Membership Inference Analysis**|Junyi Guan et.al.|[2502.13191v3](http://arxiv.org/abs/2502.13191v3)|null|
+|**2025-06-11**|**On the Privacy Risks of Spiking Neural Networks: A Membership Inference Analysis**|Junyi Guan et.al.|[2502.13191v4](http://arxiv.org/abs/2502.13191v4)|null|
 |**2025-04-21**|**Activation-wise Propagation: A Universal Strategy to Break Timestep Constraints in Spiking Neural Networks for 3D Data Processing**|Jian Song et.al.|[2502.12791v2](http://arxiv.org/abs/2502.12791v2)|null|
 |**2025-02-18**|**Neuromorphic Readout for Hadron Calorimeters**|Enrico Lupi et.al.|[2502.12693v1](http://arxiv.org/abs/2502.12693v1)|null|
 |**2025-02-18**|**Spiking Vision Transformer with Saccadic Attention**|Shuai Wang et.al.|[2502.12677v1](http://arxiv.org/abs/2502.12677v1)|null|
@@ -1358,5 +1362,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250611>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250613>back to top</a>)</p>
 
