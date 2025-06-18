@@ -1,4 +1,4 @@
-## Updated on 2025.06.17
+## Updated on 2025.06.18
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-17**|**A Scalable Hybrid Training Approach for Recurrent Spiking Neural Networks**|Maximilian Baronig et.al.|[2506.14464v1](http://arxiv.org/abs/2506.14464v1)|null|
+|**2025-06-17**|**GHz spiking neuromorphic photonic chip with in-situ training**|Jinlong Xiang et.al.|[2506.14272v1](http://arxiv.org/abs/2506.14272v1)|null|
+|**2025-06-17**|**NeuroCoreX: An Open-Source FPGA-Based Spiking Neural Network Emulator with On-Chip Learning**|Ashish Gautam et.al.|[2506.14138v1](http://arxiv.org/abs/2506.14138v1)|null|
 |**2025-06-16**|**Spiking Neural Networks for Low-Power Vibration-Based Predictive Maintenance**|Alexandru Vasilache et.al.|[2506.13416v1](http://arxiv.org/abs/2506.13416v1)|null|
 |**2025-06-16**|**Training Neural Networks by Optimizing Neuron Positions**|Laura Erb et.al.|[2506.13410v1](http://arxiv.org/abs/2506.13410v1)|null|
 |**2025-06-16**|**Realtime-Capable Hybrid Spiking Neural Networks for Neural Decoding of Cortical Activity**|Jann Krausse et.al.|[2506.13400v1](http://arxiv.org/abs/2506.13400v1)|null|
@@ -69,7 +72,7 @@
 |**2025-05-16**|**Adversarially Robust Spiking Neural Networks with Sparse Connectivity**|Mathias Schmolli et.al.|[2505.15833v1](http://arxiv.org/abs/2505.15833v1)|null|
 |**2025-05-21**|**A dynamical memory with only one spiking neuron**|Damien Depannemaecker et.al.|[2505.15453v1](http://arxiv.org/abs/2505.15453v1)|null|
 |**2025-04-14**|**Beyond Pairwise Plasticity: Group-Level Spike Synchrony Facilitates Efficient Learning in Spiking Neural Networks**|Yuchen Tian et.al.|[2505.14841v1](http://arxiv.org/abs/2505.14841v1)|null|
-|**2025-05-19**|**MSVIT: Improving Spiking Vision Transformer Using Multi-scale Attention Fusion**|Wei Hua et.al.|[2505.14719v1](http://arxiv.org/abs/2505.14719v1)|null|
+|**2025-06-17**|**MSVIT: Improving Spiking Vision Transformer Using Multi-scale Attention Fusion**|Wei Hua et.al.|[2505.14719v2](http://arxiv.org/abs/2505.14719v2)|null|
 |**2025-05-20**|**Spiking Neural Networks with Temporal Attention-Guided Adaptive Fusion for imbalanced Multi-modal Learning**|Jiangrong Shen et.al.|[2505.14535v1](http://arxiv.org/abs/2505.14535v1)|null|
 |**2025-05-20**|**Energy-Efficient Deep Reinforcement Learning with Spiking Transformers**|Mohammad Irfan Uddin et.al.|[2505.14533v1](http://arxiv.org/abs/2505.14533v1)|null|
 |**2025-05-19**|**Frozen Backpropagation: Relaxing Weight Symmetry in Temporally-Coded Deep Spiking Neural Networks**|Gaspard Goupy et.al.|[2505.13741v1](http://arxiv.org/abs/2505.13741v1)|null|
@@ -169,7 +172,7 @@
 |**2025-04-27**|**ST-FlowNet: An Efficient Spiking Neural Network for Event-Based Optical Flow Estimation**|Hongze Sun et.al.|[2503.10195v2](http://arxiv.org/abs/2503.10195v2)|null|
 |**2025-03-13**|**DTA: Dual Temporal-channel-wise Attention for Spiking Neural Networks**|Minje Kim et.al.|[2503.10052v1](http://arxiv.org/abs/2503.10052v1)|**[link](https://github.com/mnjnkim/dta-snn)**|
 |**2025-03-19**|**ES-Parkour: Advanced Robot Parkour with Bio-inspired Event Camera and Spiking Neural Network**|Qiang Zhang et.al.|[2503.09985v2](http://arxiv.org/abs/2503.09985v2)|null|
-|**2025-03-09**|**SDTrack: A Baseline for Event-based Tracking via Spiking Neural Networks**|Yimeng Shan et.al.|[2503.08703v1](http://arxiv.org/abs/2503.08703v1)|null|
+|**2025-06-17**|**SDTrack: A Baseline for Event-based Tracking via Spiking Neural Networks**|Yimeng Shan et.al.|[2503.08703v2](http://arxiv.org/abs/2503.08703v2)|null|
 |**2025-03-09**|**Characterizing Learning in Spiking Neural Networks with Astrocyte-Like Units**|Christopher S. Yang et.al.|[2503.06798v1](http://arxiv.org/abs/2503.06798v1)|null|
 |**2025-03-09**|**Hardware-Accelerated Event-Graph Neural Networks for Low-Latency Time-Series Classification on SoC FPGA**|Hiroshi Nakano et.al.|[2503.06629v1](http://arxiv.org/abs/2503.06629v1)|null|
 |**2025-03-07**|**THE-SEAN: A Heart Rate Variation-Inspired Temporally High-Order Event-Based Visual Odometry with Self-Supervised Spiking Event Accumulation Networks**|Chaoran Xiong et.al.|[2503.05112v1](http://arxiv.org/abs/2503.05112v1)|null|
@@ -1373,5 +1376,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250617>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250618>back to top</a>)</p>
 
