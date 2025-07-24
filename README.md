@@ -1,4 +1,4 @@
-## Updated on 2025.07.23
+## Updated on 2025.07.24
 
 <details>
   <summary>Table of Contents</summary>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-22**|**Fractional Spike Differential Equations Neural Network with Efficient Adjoint Parameters Training**|Chengjie Ge et.al.|[2507.16937v1](http://arxiv.org/abs/2507.16937v1)|null|
 |**2025-07-22**|**Reconfigurable qubit states and quantum trajectories in a synthetic artificial neuron network with a process to direct information generation from co-integrated burst-mode spiking under non-Markovianity**|Osama M. Nayfeh et.al.|[2507.16669v1](http://arxiv.org/abs/2507.16669v1)|null|
 |**2025-07-22**|**Spiking neurons as predictive controllers of linear systems**|Paolo Agliati et.al.|[2507.16495v1](http://arxiv.org/abs/2507.16495v1)|null|
 |**2025-07-22**|**SPACT18: Spiking Human Action Recognition Benchmark Dataset with Complementary RGB and Thermal Modalities**|Yasser Ashraf et.al.|[2507.16151v1](http://arxiv.org/abs/2507.16151v1)|null|
@@ -32,7 +33,7 @@
 |**2025-07-11**|**NeurOptimisation: The Spiking Way to Evolve**|Jorge Mario Cruz-Duarte et.al.|[2507.08320v1](http://arxiv.org/abs/2507.08320v1)|null|
 |**2025-07-10**|**EEvAct: Early Event-Based Action Recognition with High-Rate Two-Stream Spiking Neural Networks**|Michael Neumeier et.al.|[2507.07734v1](http://arxiv.org/abs/2507.07734v1)|null|
 |**2025-07-10**|**IML-Spikeformer: Input-aware Multi-Level Spiking Transformer for Speech Processing**|Zeyang Song et.al.|[2507.07396v1](http://arxiv.org/abs/2507.07396v1)|null|
-|**2025-07-09**|**A Robust, Open-Source Framework for Spiking Neural Networks on Low-End FPGAs**|Andrew Fan et.al.|[2507.07284v1](http://arxiv.org/abs/2507.07284v1)|null|
+|**2025-07-23**|**A Robust, Open-Source Framework for Spiking Neural Networks on Low-End FPGAs**|Andrew Fan et.al.|[2507.07284v2](http://arxiv.org/abs/2507.07284v2)|null|
 |**2025-07-08**|**Exploring Gain-Doped-Waveguide-Synapse for Neuromorphic Applications: A Pulsed Pump-Signal Approach**|Robert Otupiri et.al.|[2507.05931v1](http://arxiv.org/abs/2507.05931v1)|null|
 |**2025-07-07**|**Self-consistent moment dynamics for networks of spiking neurons**|Gianni Valerio Vinci et.al.|[2507.05117v1](http://arxiv.org/abs/2507.05117v1)|null|
 |**2025-07-04**|**Efficient Event-Based Semantic Segmentation via Exploiting Frame-Event Fusion: A Hybrid Neural Network Approach**|Hebei Li et.al.|[2507.03765v1](http://arxiv.org/abs/2507.03765v1)|null|
@@ -205,7 +206,7 @@
 |**2025-03-20**|**Efficient ANN-Guided Distillation: Aligning Rate-based Features of Spiking Neural Networks through Hybrid Block-wise Replacement**|Shu Yang et.al.|[2503.16572v1](http://arxiv.org/abs/2503.16572v1)|null|
 |**2025-03-20**|**Allostatic Control of Persistent States in Spiking Neural Networks for perception and computation**|Aung Htet et.al.|[2503.16085v1](http://arxiv.org/abs/2503.16085v1)|null|
 |**2025-03-20**|**GazeSCRNN: Event-based Near-eye Gaze Tracking using a Spiking Neural Network**|Stijn Groenen et.al.|[2503.16012v1](http://arxiv.org/abs/2503.16012v1)|**[link](https://github.com/StijnGroenen/GazeSCRNN)**|
-|**2025-03-20**|**SpiLiFormer: Enhancing Spiking Transformers with Lateral Inhibition**|Zeqi Zheng et.al.|[2503.15986v1](http://arxiv.org/abs/2503.15986v1)|null|
+|**2025-07-23**|**SpiLiFormer: Enhancing Spiking Transformers with Lateral Inhibition**|Zeqi Zheng et.al.|[2503.15986v2](http://arxiv.org/abs/2503.15986v2)|null|
 |**2025-05-20**|**Low Dimensional Dynamics of Globally Coupled Complex Riccati Equations: Exact Firing-rate Equations for Spiking Neurons with Clustered Substructure**|Diego Pazó et.al.|[2503.15537v2](http://arxiv.org/abs/2503.15537v2)|null|
 |**2025-03-19**|**Towards efficient keyword spotting using spike-based time difference encoders**|Alejandro Pequeño-Zurro et.al.|[2503.15402v1](http://arxiv.org/abs/2503.15402v1)|null|
 |**2025-03-10**|**Event-Driven Implementation of a Physical Reservoir Computing Framework for superficial EMG-based Gesture Recognition**|Yuqi Ding et.al.|[2503.13492v1](http://arxiv.org/abs/2503.13492v1)|null|
@@ -1418,5 +1419,5 @@
 |**2022-04-10**|**Energy-Efficient High-Accuracy Spiking Neural Network Inference Using Time-Domain Neurons**|Joonghyun Song et.al.|[2202.02015v2](http://arxiv.org/abs/2202.02015v2)|null|
 |**2022-02-03**|**Optimized Potential Initialization for Low-latency Spiking Neural Networks**|Tong Bu et.al.|[2202.01440v1](http://arxiv.org/abs/2202.01440v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250723>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250724>back to top</a>)</p>
 
